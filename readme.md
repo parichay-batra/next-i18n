@@ -20,8 +20,6 @@ You can target your website or parts of it to users in a single specific country
 - Page or site level: Use locale-specific URLs for your site or page.
 - Page level: Use hreflang or sitemaps to tell Google which pages apply to which locations or languages.
 
-**NOTE**: Remember that geotargeting isn't an exact science, so it's important to consider users who land on the "wrong" version of your site. One way to do this could be to show links on all pages for users to select their region and/or language of choice.
-
 ![ip_based_analysis](./ip_based_analysis.png)
 
 ## Google recommends three different ways for creating locale-specific URLs:
