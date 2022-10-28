@@ -47,4 +47,22 @@ Amazon case study:
 
 Source: Google BigQuery
 
-<script src="https://gist.github.com/RatulSaha/2009ab5956163d247cac1240c3facba4.js"></script>
+//Add BigQuery Snippet here
+
+## John Mueller Discussing International SEO
+
+![mueller_discussion](./mueller_discussion.png)
+
+## How we want to market:
+
+- If we want to really position these as, we’re the parenting company for UAE, then we kind of want to have our own domain.
+
+- If we want to position it as, we’re a global company and we also do UAE, then having that within existing domain might be okay.
+
+### A ccTLD often promotes consumer trust, therefore engagement will improve.
+
+For example, German consumers can be wary of buying anything non-German. This makes it difficult for companies with a non-German specific presence to compete.
+
+Not only do you have to prove you have better quality than an equivalent German company, you can’t risk diminishing trust signals by not getting a German ccTLD.
+
+Outside of these trust signals, there is the factor of links to consider. German sites considering linking to you from within Germany is a strong preference over links from outside of Germany.”
