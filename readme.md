@@ -6,6 +6,9 @@
 
 Some sites are both multi-regional and multilingual: for example, a site might have different versions for the USA and for Canada, and both French and English versions of the Canadian content. Example Amazon.com
 
+
+## Snippet from google developers:
+
 ![dynamic_content_change](./dynamic_content_change.png)
 
 ## Targeting site content to a specific country (geotargeting)
